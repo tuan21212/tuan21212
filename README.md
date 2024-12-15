@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+I’m currently studying at Vietnam National University - University of Engineering and Technology.
+Just have known about "Hello World!"
 <!--
 **tuan21212/tuan21212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
